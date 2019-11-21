@@ -1,4 +1,6 @@
 # vue-ol-second
+- vuejs 2.6.10
+- openlayers 5.2.0
 
 ## Project setup
 ```
